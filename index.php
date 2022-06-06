@@ -25,7 +25,7 @@
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">2021</span>
+        <span class="text-muted">2022</span>
       </div>
     </footer>
 
